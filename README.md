@@ -14,8 +14,7 @@ Facial expression recognition is a crucial aspect of human-computer interaction,
 - [Training Process](#training-process)
 - [Results and Evaluation](#results-and-evaluation)
 - [Usage](#usage)
-- [Visualizations](#visualizations)
-- [References](#references)
+- [Schematic Visualization of the Model](#schematic-visualization-of-the-model)
 
 ## Dataset
 
@@ -78,12 +77,12 @@ The bar graph below shows the distribution of classes in the training dataset.
 ![Figure 2024-05-17 180225](https://github.com/user-attachments/assets/aa9290b3-c15b-4b7a-9f37-c32f09fec39d)
 
 
-### Some Screenshots I took when I used webcam
+## Some Screenshots I took when I used webcam
 ![Ekran görüntüsü 2024-05-18 201801](https://github.com/user-attachments/assets/f165de40-599c-43d8-a187-51ed7a4dd121)
 
 ![Ekran görüntüsü 2024-05-18 202143](https://github.com/user-attachments/assets/36c63e82-578f-44d1-af01-0730ab93a7d5)
 
-### Schematic Visualization of the Model
+## Schematic Visualization of the Model
 
 The model's layer-by-layer visualization is shown below, including the input and output shapes for each layer
 
