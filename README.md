@@ -1,2 +1,2 @@
 # Facial-Expression-Recognition
-Facial Expression Recognition using FER2013 dataset
+Facial Expression Recognition project using FER2013 dataset
