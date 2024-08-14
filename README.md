@@ -13,8 +13,9 @@ Facial expression recognition is a crucial aspect of human-computer interaction,
 - [Model Architecture](#model-architecture)
 - [Training Process](#training-process)
 - [Results and Evaluation](#results-and-evaluation)
-- [Usage](#usage)
 - [Schematic Visualization of the Model](#schematic-visualization-of-the-model)
+- [Usage](#usage)
+
 
 ## Dataset
 
